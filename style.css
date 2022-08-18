@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    color: darkgreen;
+}
+p{
+    color: blueviolet;
+    font-weight: 500;
+}
+img{
+    width: 300px;
+}
